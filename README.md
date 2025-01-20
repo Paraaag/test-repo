@@ -1,2 +1,2 @@
-# test-repo
-this is a second example
+# my very first repo
+I am an awesome coder.
